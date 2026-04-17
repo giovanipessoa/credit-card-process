@@ -18,6 +18,3 @@ This project models a credit card request process using BPMN for orchestration a
 - Hit Policy: FIRST
 - Benefits resolved via normalization (no rejection)
 - Decision logic externalized from BPMN
-
-## Diagram
-![Process](diagrams/Credit Card Process.png)
